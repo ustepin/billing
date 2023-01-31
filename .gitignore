@@ -1,0 +1,7 @@
+bin
+.idea
+.vscode
+vendor
+.DS_Store
+*.out
+.golangci.yml
